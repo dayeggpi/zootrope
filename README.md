@@ -11,11 +11,13 @@ Build your own zootrope and phenakistoscope, a kinetic sculpture
 
 # Showcase
 
-![Image](https://i.imgur.com/CqvDA8u.gif)
+
+<img src="https://i.imgur.com/qjut1aM.jpeg" width=300/>
 
 
-Note: The effect on the gif might not do justice to the final product as the camera framerate of my phone isn't synchronized with the strobo effect of the leds to obtain the right effect...
 More images in the "images" folder.
+Note : the render on the gif might not do justice to the final product as the camera framerate of my phone isn't synchronized with the strobo effect of the leds to obtain the right effect...
+
 
 Check out the videos in the links below to see how it should look like.
 
@@ -98,4 +100,6 @@ Note, if your rotor can turn as low as a few RPM (40/50/70), then you can also p
 - https://hackaday.io/project/170379-3d-zoetrope
 - https://www.printables.com/model/733786-zootrope-by-lfpoulain
 - https://www.yembarwar.com/blog/zoetrope-vinyl
+- https://publicdomainreview.org/collection/phenakistoscopes-1833/
+- https://www.behance.net/search/projects/phenakistoscope
 
