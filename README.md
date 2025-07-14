@@ -9,6 +9,18 @@ Build your own zootrope and phenakistoscope, a kinetic sculpture
 - praxinoscope
 - novatrope
 
+# Showcase
+
+![Image](https://i.imgur.com/CqvDA8u.gif)
+
+
+Note: The effect on the gif might not do justice to the final product as the camera framerate of my phone isn't synchronized with the strobo effect of the leds to obtain the right effect...
+More images in the "images" folder.
+
+Check out the videos in the links below to see how it should look like.
+
+
+
 # Circuit
 
 BOM: 
