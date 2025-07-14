@@ -1,6 +1,14 @@
 # zootrope
 Build your own zootrope and phenakistoscope, a kinetic sculpture
 
+# Keywords
+
+- zootrope
+- zoetrope
+- phenakistiscope
+- praxinoscope
+- novatrope
+
 # Circuit
 
 BOM: 
@@ -57,6 +65,8 @@ int motorPin = 9; // The pin connected to the transistor base
 
 Keep the arduino plugged to the computer, and check the serial monitor in Arduino IDE to see the values of the motor and blink that will bring the best zootrope effect, and then set these values as default in the code.
 
+You might need an FTDI232 to send the code to the arduino.
+
 
 # Usage
 
@@ -66,5 +76,14 @@ Turn the circuit on, wait for rotor to spin at speed, the rotary encoder and cli
 
 Note, if your rotor can turn as low as a few RPM (40/50/70), then you can also print phenakistoscope images that will display nicely.
 
+# Go further and link/references
 
+- https://www.youtube.com/watch?v=f3xNOfmQZW0
+- https://www.youtube.com/watch?app=desktop&v=5BcFZdcoYD8
+- https://www.youtube.com/watch?v=7v01Rgxuyc4
+- https://www.youtube.com/watch?v=h0gyoMDzWwI
+- https://www.instructables.com/Blooming-Zoetrope-Sculptures/
+- https://hackaday.io/project/170379-3d-zoetrope
+- https://www.printables.com/model/733786-zootrope-by-lfpoulain
+- https://www.yembarwar.com/blog/zoetrope-vinyl
 
